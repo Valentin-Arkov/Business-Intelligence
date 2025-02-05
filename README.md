@@ -1,6 +1,8 @@
 # Бизнес-аналитика в корпоративных информационных системах
 # ПИ-РБП-102М
 
+![Учебный план](https://github.com/Valentin-Arkov/Business-Intelligence/blob/main/RBP-plan.jpg)
+
 ## Видеоролики
 
 https://www.youtube.com/playlist?list=PLgkPUa9zaIkL7dp97Z6s3vj3p6PnrNF8B
