@@ -34,6 +34,7 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
 ### Лабораторная работа №4
 
 [Описание ЛР4](https://ridero.ru/books/analiz_i_vizualizaciya_dannykh_v_elektronnykh_tablicakh/)
+
 [Загрузка отчета по ЛР4](https://forms.yandex.ru/u/67a314e2f47e730360fdc044/)
 
 # "Битые" ссылки - broken links
