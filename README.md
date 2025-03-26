@@ -39,7 +39,7 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
 
 ## Зачет
 
-Для получения зачетанеобходимо:
+Для получения зачета необходимо:
 
 - защитить все 4 ЛР и загрузить отчеты
 - изучить [курс по DataLens от Яндекса](https://yandex.cloud/ru/training/datalens) и загрузить сертификат
