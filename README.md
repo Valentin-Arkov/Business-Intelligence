@@ -37,6 +37,16 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
 
 [Загрузка отчета по ЛР4](https://forms.yandex.ru/u/67a314e2f47e730360fdc044/)
 
+## Зачет
+
+Для получения зачетанеобходимо:
+
+- защитить все 4 ЛР и загрузить отчеты
+- изучить [курс по DataLens от Яндекса](https://yandex.cloud/ru/training/datalens) и загрузить сертификат
+
+[Загрузка сертификата](https://forms.yandex.ru/u/67e3c9b184227cc22a0f15b0/)
+
+
 # "Битые" ссылки - broken links
 
 Чтобы поделиться ссылкой на файл в облаке (Яндекс.Диск), нужно при загрузке нажать кнопки Поделиться и Скопировать ссылку. 
