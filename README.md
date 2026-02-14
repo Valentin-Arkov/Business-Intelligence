@@ -1,5 +1,7 @@
 # Бизнес-аналитика в корпоративных информационных системах (ПИ РБП магистры)
 
+## Нормативные акты
+
 ![Положение об отчислении: посещение занятий](https://github.com/Valentin-Arkov/Business-Intelligence/blob/main/files/attendance.jpg)
 
 ![ФЗ об образовании: обязанности обучающихся](https://github.com/Valentin-Arkov/Business-Intelligence/blob/main/files/duties.jpg)
@@ -50,7 +52,7 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
 [Загрузка сертификата](https://forms.yandex.ru/u/67e3c9b184227cc22a0f15b0/)
 
 
-# "Битые" ссылки - broken links
+## "Битые" ссылки - broken links
 
 Чтобы поделиться ссылкой на файл в облаке (Яндекс.Диск), нужно при загрузке нажать кнопки Поделиться и Скопировать ссылку. 
 В результате, в буфере обмена будет ссылка типа https://disk.yandex.ru/d/zF3N0SQWDZUhlw.
