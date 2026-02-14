@@ -18,31 +18,15 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
 
 ## Лабораторные работы
 
-### Лабораторная работа №1
+[ЛР1](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
 
-[Описание ЛР1](https://ridero.ru/books/biznes-analitika_v_excel_svodnye_tablicy/)
+[ЛР2](https://ridero.ru/books/svodnye_tablicy_excel_chast_2/)
 
-[Загрузка отчета по ЛР1](https://forms.yandex.ru/u/67a31269d0468802a6fbf99c/)
+[ЛР3](https://ridero.ru/books/izvlechenie_preobrazovanie_i_zagruzka_dannykh_v_excel/)
 
+[ЛР4](https://ridero.ru/books/analiz_i_vizualizaciya_dannykh_v_elektronnykh_tablicakh/)
 
-### Лабораторная работа №2
-
-[Описание ЛР2](https://ridero.ru/books/svodnye_tablicy_excel_chast_2/)
-
-[Загрузка отчета по ЛР2](https://forms.yandex.ru/u/67a3144f02848f0328234805/)
-
-
-### Лабораторная работа №3
-
-[Описание ЛР3](https://ridero.ru/books/izvlechenie_preobrazovanie_i_zagruzka_dannykh_v_excel/)
-
-[Загрузка отчета по ЛР3](https://forms.yandex.ru/u/67a3149e50569003704a20f1/)
-
-### Лабораторная работа №4
-
-[Описание ЛР4](https://ridero.ru/books/analiz_i_vizualizaciya_dannykh_v_elektronnykh_tablicakh/)
-
-[Загрузка отчета по ЛР4](https://forms.yandex.ru/u/67a314e2f47e730360fdc044/)
+[Загрузка отчетов по ЛР](https://forms.yandex.ru/u/69902e72068ff08b8f729f86)
 
 ## Зачет
 
