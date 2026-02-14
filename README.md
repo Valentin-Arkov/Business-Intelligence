@@ -1,6 +1,10 @@
 # Бизнес-аналитика в корпоративных информационных системах (ПИ РБП магистры)
 
-![Учебный план](https://github.com/Valentin-Arkov/Business-Intelligence/blob/main/RBP-plan.jpg)
+![Положение об отчислении: посещение занятий](https://github.com/Valentin-Arkov/Business-Intelligence/blob/main/files/attendance.jpg)
+
+![ФЗ об образовании: обязанности обучающихся](https://github.com/Valentin-Arkov/Business-Intelligence/blob/main/files/duties.jpg)
+
+
 
 ## Видеоролики
 
