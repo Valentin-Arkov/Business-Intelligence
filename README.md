@@ -55,3 +55,5 @@ https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
 
 <a href="https://practicum.yandex.ru/blog/chto-takoe-dashbord/" target="_blank">Яндекс Практикум 2025 Что такое дашборды</a>
 
+[Opens in new tab](https://external.ink?to=https://practicum.yandex.ru/blog/chto-takoe-dashbord/)
+
