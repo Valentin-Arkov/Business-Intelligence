@@ -51,5 +51,48 @@
 
 # Материалы для самостоятельного изучения
 
-[Яндекс Практикум 2025 Что такое дашборды](https://practicum.yandex.ru/blog/chto-takoe-dashbord/)
+[Дашборд - Dashboard](https://practicum.yandex.ru/blog/chto-takoe-dashbord/)
 
+[Интеллектуальный анализ данных - Data Mining](https://practicum.yandex.ru/blog/data-mining-dlya-analiza-dannyh/)
+
+[Витрина данных - Data Mart](https://practicum.yandex.ru/blog/vitrina-dannyh-chto-eto-ispolzovanie-data-mart/)
+
+BI-аналитик - Business INtelligence: обязанности, необходимые навыки и карьерные перспективы
+https://practicum.yandex.ru/blog/kto-takoy-bi-analitik/
+
+Хранилище данных: зачем оно нужно и как работает
+https://practicum.yandex.ru/blog/chto-takoe-hranilishe-dannyh-data-warehouse/
+
+Инструкция по Power Query: как настроить инструмент Excel и преобразовывать данные с его помощью
+https://practicum.yandex.ru/blog/power-query-v-excel/
+
+Как сделать сводные таблицы в Excel: пошаговая инструкция
+https://practicum.yandex.ru/blog/svodnye-tablicy-v-excel-zachem-nuzhny-i-kak-sdelat/
+
+Как сделать ВПР в Excel: пошаговая инструкция
+https://practicum.yandex.ru/blog/funkciya-vpr-v-excel-poshagovaya-instruktsiya/
+
+Аналитика — это красиво: 8 сервисов для визуализации данных
+https://practicum.yandex.ru/blog/obzor-servisov-dlya-vizualizacii-dannyh/
+
+Интерактивный дашборд в Excel: что это такое и как создать
+https://practicum.yandex.ru/blog/kak-sozdat-dashbord-v-excel/
+
+Как найти сокровища в данных, или Зачем нужна BI-система
+BI-системы помогают всем сотрудникам компании использовать большие данные для работы. В статье рассказываем, в чём преимущества таких систем и когда пора внедрять Business Intelligence.
+https://practicum.yandex.ru/blog/bi-sistemy-business-intelligence/
+
+Очистка данных: кто их загрязняет и что аналитику с этим делать
+https://practicum.yandex.ru/blog/chto-takoe-ochistka-dannyh/
+
+4 инструмента быстрого и простого анализа данных в Microsoft Excel
+https://practicum.yandex.ru/blog/tehniki-analiza-dannyh-v-excel/
+
+Как ETL-процессы помогают анализировать большие данные
+https://practicum.yandex.ru/blog/chto-takoe-etl/
+
+Визуализация данных: применение в работе, основные принципы, способы и инструменты для использования
+https://practicum.yandex.ru/blog/vizualizaciya-dannyh/
+
+Анализ данных в Microsoft Power BI. Инструменты, возможности, как использовать, кому подойдёт
+https://practicum.yandex.ru/blog/kak-nachat-rabotat-s-power-bi/
