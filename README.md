@@ -12,9 +12,9 @@
 
 ## Видеоролики
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkL7dp97Z6s3vj3p6PnrNF8B
+[Бизнес-аналитика и статистика: Лабораторные работы для бакалавров](https://www.youtube.com/playlist?list=PLgkPUa9zaIkL7dp97Z6s3vj3p6PnrNF8B)
 
-https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws
+[Бизнес-аналитика в КИС: Лекции для магистров](https://www.youtube.com/playlist?list=PLgkPUa9zaIkJRf3Ye9_Wv8z6ydcLhBWws)
 
 ## Лабораторные работы
 
