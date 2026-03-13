@@ -82,3 +82,9 @@
 [Визуализация данных](https://practicum.yandex.ru/blog/vizualizaciya-dannyh/)
 
 [Power BI](https://practicum.yandex.ru/blog/kak-nachat-rabotat-s-power-bi/)
+
+# Книги
+
+Паклин Орешков 2013 Бизнес-аналитика от данных к знаниям
+
+
